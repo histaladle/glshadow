@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>fsrc.glsl</file>
+        <file>vsrc.glsl</file>
+        <file>billboardf.glsl</file>
+        <file>billboardv.glsl</file>
+        <file>line.vsh</file>
+        <file>line.fsh</file>
+        <file>facet.vsh</file>
+        <file>facet.fsh</file>
+        <file>texture.vsh</file>
+        <file>texture.fsh</file>
+        <file>billboard.vsh</file>
+        <file>billboard.fsh</file>
+        <file>depth.fsh</file>
+        <file>floor.vsh</file>
+        <file>floor.fsh</file>
+        <file>id.fsh</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>side1.png</file>
+        <file>side2.png</file>
+        <file>cube.png</file>
+    </qresource>
+</RCC>
